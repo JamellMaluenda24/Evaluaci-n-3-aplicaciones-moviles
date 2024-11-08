@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Evaluacion2APP</string>
+
+    <!-- Conexiones entre pantallas -->
+    <!-- Main1 (pantalla principal) -->
+    <string name="boton_ingresar_main3">Ingresar</string>
+    <string name="boton_registrarse_main2">Registrarse</string>
+
+    <!-- Main2 (pantalla de registro) -->
+    <string name="boton_guardar_datos_main2">Registrar</string>
+    <string name="boton_volver_main1">Volver</string>
+    <string name="boton_ingresarmain2">Ingresar</string>
+
+    <!-- Main3 (pantalla de login) -->
+    <string name="boton_modificar_datos_main5">Modificar datos</string>
+    <string name="boton_eliminar_datos_main4">Eliminar datos</string>
+    <string name="boton_volver2_main1">Volver inicio</string>
+</resources>
